@@ -1,0 +1,6 @@
+.footer_main{
+    position: absolute;
+    bottom: 0;
+    border:2px solid red;
+    width: 100%;
+}

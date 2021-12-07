@@ -1,0 +1,6 @@
+.main_nav{
+    border:2px solid black;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
